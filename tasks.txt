@@ -1,0 +1,4 @@
+Task 1: Create SDL3 Lua bindings (high priority)
+Task 2: Create box2d Lua bindings (high priority)  
+Task 3: Create combined lib bindings (medium priority)
+Task 4: Add example Lua scripts (low priority)
